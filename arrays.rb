@@ -11,3 +11,6 @@ print integers[3]
 print floats[0]
 # this method is calling the third element in the array strings
 print booleans[2]
+
+# Index positions when coding start at the numerical value of "0". In other words, the first element
+# in an array will be assigned the "place" of 0, then 1, then 2, and so on.
