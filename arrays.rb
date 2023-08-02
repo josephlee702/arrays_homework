@@ -2,3 +2,12 @@ strings = ["dog", "cat", "fish", "turtle"]
 integers = [1,2,3,4]
 floats = [1.1, 1.2, 1.3, 1.4]
 booleans = [true, false, true, false]
+
+# this method is calling the second element in the array strings
+print strings[1]
+# this method is calling the fourth element in the array strings
+print integers[3]
+# this method is calling the first element in the array strings
+print floats[0]
+# this method is calling the third element in the array strings
+print booleans[2]
