@@ -14,3 +14,7 @@ print booleans[2]
 
 # Index positions when coding start at the numerical value of "0". In other words, the first element
 # in an array will be assigned the "place" of 0, then 1, then 2, and so on.
+
+# this method is popping out the last element in the array "strings", which would pop out the element 
+# named "turtle". Once you use `ls`, you will notice that "turtle" is removed, and ["dog", "cat", "fish",] is returned.
+print strings.pop
